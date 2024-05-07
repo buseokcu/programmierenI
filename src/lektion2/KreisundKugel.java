@@ -14,7 +14,7 @@ public class KreisundKugel {
 
         double flaeche = pi * r * r;
         double umfang = pi * 2 * r;
-        double volume1 = (4 / 3) * pi * Math.pow(r, 3);
+        double volume1 = ((double) 4 / 3) * pi * Math.pow(r, 3);
 
         System.out.println("Kreisflaeche: " + flaeche);
         System.out.println("Kreisumfang: " + umfang);
