@@ -2,7 +2,7 @@ package lektion6;
 
 import java.util.Scanner;
 
-public class ubung2 {
+public class Fakultaet {
 
     public static long Fakultat(int a) {
         long b = 1;

@@ -1,6 +1,6 @@
 package lektion6;
 
-public class ubung1 {
+public class Runden {
 
     public static void Runden(double b){
 

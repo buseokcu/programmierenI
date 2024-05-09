@@ -1,6 +1,6 @@
 package lektion6;
 
-public class ubung3 {
+public class Dreieck {
     public static void mittedreieck(int z){
         for (int i = 1; i <= z; i++){
             for (int c = z - i; c >= 0; c-- ){

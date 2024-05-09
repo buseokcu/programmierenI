@@ -2,7 +2,7 @@ package lektion6;
 
 import java.util.Scanner;
 
-public class ubung5 {
+public class Potenz {
     public static int Rekursion(int x, int n){
         if(n == 0){
             return 1; // x^0 = 1
